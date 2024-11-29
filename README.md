@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Tikhon Streltsov
+🚀 **Data Scientist | Machine Learning Expert | Educator**
 
-<!--
-**tikhoncap/tikhoncap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have over **6 years of commercial experience** in **data science** and **machine learning**, specializing in transforming complex data into actionable insights that drive business growth and innovation. My skills cover the full data lifecycle:  
 
-Here are some ideas to get you started:
+- 📊 **Data Analytics & Visualization**  
+- 🤖 **Machine Learning Model Development**  
+- ⚙️ **Production Deployment & Monitoring**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Areas of Expertise  
+- **Cybersecurity:** Anomaly detection, traffic classification, bot detection.  
+- **Supply Chain Analytics:** BI dashboards, financial forecasting, inventory optimization.  
+- **HR Analytics:** Workforce planning, cost predictions, and staffing models.  
